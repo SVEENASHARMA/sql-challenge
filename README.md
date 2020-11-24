@@ -1,4 +1,5 @@
 # SQL challenge
+# SQL Joins
 ## Part 1
 1) INNER JOIN: This join returns rows that match values in both tables. 
 If a value is in one table but not the other, those records will not be returned.
