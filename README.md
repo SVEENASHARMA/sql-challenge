@@ -17,4 +17,5 @@ The final view was created with either a Full Join or a Left Join as seen in the
 ## Part 1
 Alter: This statement allows one to edit the table structure, such as changing the number of columns/rows, data types of a column, renaming columns, renaming tables,
 and so forth. It is a Data Definition Language (DDL). Unlike an UPDATE statement, the ALTER statement does not change the data itself. 
+
 Update: This statement allows one to edit exisiting data in a table, not the structure, in three steps: UPDATE, SET, WHERE. It is a Data Manipulation Language (DML). 
