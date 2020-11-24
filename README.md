@@ -9,6 +9,6 @@ in the right table. If there is no matching row in the right table, a null value
 in the left table. If there is no matching row in the left table, a null value will be returned.
 4) FULL JOIN: Returns all rows that match both the left and right tables. 
 5) OUTER JOIN: Includes all rows in one table regardless if there are matching rows in the other table.
-
+6) SELF JOIN: This joins a table to itself
 ## Part 2
 The final view was created with either a Full Join or a Left Join as seen in the attached SQL file.
