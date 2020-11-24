@@ -10,4 +10,4 @@ in the left table. If there is no matching row in the left table, a null value w
 5) OUTER JOIN: Includes all rows in one table regardless if there are matching rows in the other table.
 
 ## Part 2
-The final view was created with either a Full Join or a Left Join as seen below: */
+The final view was created with either a Full Join or a Left Join as seen in the attached SQL file.
