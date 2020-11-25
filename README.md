@@ -11,7 +11,7 @@ in the left table. If there is no matching row in the left table, a null value w
 5) OUTER JOIN: Includes all rows in one table regardless if there are matching rows in the other table.
 6) SELF JOIN: This joins a table to itself
 ## Part 2
-The final view was created with either a Full Join or a Left Join as seen in the attached SQL file.
+The final view was created with a Left Join as seen in the attached SQL file.
 
 # Alter vs. Update
 ## Part 1
@@ -19,3 +19,6 @@ Alter: This statement allows one to edit the table structure, such as changing t
 and so forth. It is a Data Definition Language (DDL). Unlike an UPDATE statement, the ALTER statement does not change the data itself. 
 
 Update: This statement allows one to edit exisiting data in a table, not the structure, in three steps: UPDATE, SET, WHERE. It is a Data Manipulation Language (DML). 
+
+## Part 2
+SQL file attached as well.
