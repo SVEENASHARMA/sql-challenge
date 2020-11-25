@@ -22,3 +22,5 @@ Update: This statement allows one to edit exisiting data in a table, not the str
 
 ## Part 2
 SQL file attached as well.
+![AlterUpdate rename column](https://user-images.githubusercontent.com/70446836/100292643-0c498a00-2f4f-11eb-847e-11809a371d38.PNG)
+
