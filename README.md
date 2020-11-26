@@ -35,5 +35,9 @@ DML: Data Manipulation Language. This includes Insert, Update, and Delete statem
 ## Part 1
 The Select Distinct clause to locate the duplicate rows in a table. 
 
+![distinct](https://user-images.githubusercontent.com/70446836/100296586-9f3bf180-2f5a-11eb-92e4-59b1c4b99afa.PNG)
+
 ## Part 2
 To find duplicate records from multiple fields, specify the specific field names using Select Distinct.
+
+![distinctmultiple](https://user-images.githubusercontent.com/70446836/100296585-9ea35b00-2f5a-11eb-82fe-f5d4636203da.PNG)
