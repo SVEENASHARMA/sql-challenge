@@ -30,3 +30,10 @@ DDL: Data Definition Language; this includes Alter, Create, Drop, Rename stateme
 DML: Data Manipulation Language. This includes Insert, Update, and Delete statement; this language modifies the data itself. 
 ## Part 2
 ![image](https://user-images.githubusercontent.com/70446836/100293532-086b3700-2f52-11eb-8205-e2ea5c8edb3d.png)
+
+# Duplicates
+## Part 1
+The Select Distinct clause to locate the duplicate rows in a table. 
+
+## Part 2
+To find duplicate records from multiple fields, specify the specific field names using Select Distinct.
