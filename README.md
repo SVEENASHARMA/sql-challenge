@@ -43,27 +43,42 @@ To find duplicate records from multiple fields, specify the specific field names
 ![distinctmultiple](https://user-images.githubusercontent.com/70446836/100296585-9ea35b00-2f5a-11eb-82fe-f5d4636203da.PNG)
 
 # Group By
-SQL Equivalent to find the sum: 
+**SQL Equivalent to find the sum:**
 
 SELECT
+
 	state,
+	
 	SUM (duration)
+
 FROM
+
 	usa_ufo
+
 GROUP BY
+
 	state
+
 ORDER BY
+
 	SUM (duration) DESC;
   
-Find the average:
+**Find the average:**
 
 SELECT
+	
 	state,
+	
 	AVG (duration)
 FROM
+	
 	usa_ufo
+
 GROUP BY
+
 	state
+
 ORDER BY
+
 	AVG (duration) DESC;
   
