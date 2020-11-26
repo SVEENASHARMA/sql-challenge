@@ -24,3 +24,8 @@ Update: This statement allows one to edit exisiting data in a table, not the str
 SQL file attached as well.
 ![AlterUpdate rename column](https://user-images.githubusercontent.com/70446836/100292643-0c498a00-2f4f-11eb-847e-11809a371d38.PNG)
 
+# DML and DDL
+## Part 1
+DDL: Data Definition Language; this includes Alter, Create, Drop, Rename statements. This language defines the database schema and can modify the database structure. 
+DML: Data Manipulation Language. This includes Insert, Update, and Delete statement; this language modifies the data itself. 
+## Part 2
