@@ -1,4 +1,4 @@
-# SQL CHALLENGE
+# SQL Drills
 # SQL Joins
 ## Part 1
 1) INNER JOIN: This join returns rows that match values in both tables. 
